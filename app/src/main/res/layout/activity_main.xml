@@ -34,10 +34,12 @@
         app:navGraph="@navigation/mobile_navigation" />
 
     <TextView
-        android:id="@+id/tv_addevent"
+        android:id="@+id/tv_add_event"
         android:layout_width="166dp"
-        android:layout_height="23dp"
-        android:layout_marginTop="8dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="16dp"
+        android:clickable="true"
         android:text="ADICIONAR EVENTO"
         android:textSize="16dp"
         android:textStyle="bold"
