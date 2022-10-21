@@ -13,8 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Agenda"
         tools:targetApi="31">
+
         <activity
-            android:name=".AddEventActivity"
+            android:name=".ui.AddEventActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
