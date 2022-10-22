@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun insertListeners () {
-        binding.btnAdd.setOnClickListener {
+        binding.tvAdd.setOnClickListener {
             val intent = Intent (this, AddEventActivity::class.java)
             startActivity(intent)
         }
