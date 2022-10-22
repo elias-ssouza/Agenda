@@ -3,4 +3,10 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="new_event">Novo Evento</string>
+    <string name="event">Evento</string>
+    <string name="place">Local</string>
+    <string name="date">Data</string>
+    <string name="hour">Hora</string>
+    <string name="confirm">Confirmar</string>
 </resources>
