@@ -22,7 +22,7 @@
         android:id="@+id/tv_add"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Cadastrar Evento"
+        android:text="@string/event_register"
         android:textStyle="bold"
         android:textSize="18dp"
         android:clickable="true"

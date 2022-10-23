@@ -9,4 +9,6 @@
     <string name="date">Data</string>
     <string name="hour">Hora</string>
     <string name="confirm">Confirmar</string>
+    <string name="event_register">Cadastrar Evento</string>
+    <string name="sucess_register">Lembrete de evento registrado</string>
 </resources>
